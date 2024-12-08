@@ -12,7 +12,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-**Full Adder and Full Subtractor**
+**Full Adder and Full Subtractor:**
 
 **Full Adder**
 
